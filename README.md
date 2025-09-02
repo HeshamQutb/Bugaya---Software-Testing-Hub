@@ -41,8 +41,8 @@ We wanted the project to carry both **fun vibes** and a **serious purpose** at t
 
 ## 👨‍💻 Developers  
 
-- **Hesham Qutb** – Web Developer & Software Testing Enthusiast  
-- **Mina** – Web Developer & Collaborator  
+- **Hesham Qutb** – Flutter Developer & Software Testing Enthusiast  
+- **Mina Khalifa** – Software Testing Enthusiast  
 
 Both of us combined our efforts to bring Bugaya to life, pushing ourselves beyond the classroom to create something that represents our journey.  
 
