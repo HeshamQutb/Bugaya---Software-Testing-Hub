@@ -1,7 +1,7 @@
 # 🐞 Bugaya - Software Testing Hub  
 
-Welcome to **Bugaya**, a creative project built during our **Intensive Training Program (ITI)** journey.  
-This project was developed by **Hesham Qutb** and **Mina** as part of our **Web Fundamentals track** after we had just learned the basics of **HTML** and **CSS**.  
+Welcome to **Bugaya**, a creative project built during our **Intensive Code Camp Program (ITI)** journey.  
+This project was developed by **Hesham Qutb** and **Mina Khalifa** as part of our **Web Fundamentals track** after we had just learned the basics of **HTML** and **CSS**.  
 
 Since we were studying the **Software Testing track**, we thought:  
 _"Why not build something that actually connects to what we are learning?"_  
